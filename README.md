@@ -1,2 +1,2 @@
 # MPI-Projects
-Few different mathematical problem solved using MPI
+Few different mathematical problems solved using MPI
